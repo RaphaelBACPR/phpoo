@@ -1,0 +1,17 @@
+{
+    "name": "raphael/loja",
+    "authors": [
+        {
+            "name": "RaphaelBACPR",
+            "email": "raphaelsfreitaswd@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "App\\" : "App/"
+        },
+        "files": [
+        ]
+    }
+}
